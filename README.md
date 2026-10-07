@@ -1,11 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+    using System.Threading.Tasks;
 
-namespace Program26
-{
+    namespace Program26
+    {
     internal class Program
     {
         static void Main()
@@ -44,4 +44,4 @@ namespace Program26
             Console.WriteLine($"Радиус вписанной окружности r: {r:F2}");
         }
     }
-}
+    }
